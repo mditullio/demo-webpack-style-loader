@@ -10,3 +10,4 @@ Thanks in advance,
 
 Marco.
 
+Related to issue: https://github.com/webpack-contrib/style-loader/issues/565
